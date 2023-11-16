@@ -1,11 +1,16 @@
 _repo: Foods-nutrition-and-digestion_71988
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71988-h/images/cover.jpg
 creator:
   author:
     agent_name: Cocroft, Susanna
     gutenberg_agent_id: '56485'
     url: http://www.gutenberg.org/2009/agents/56485
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71988#Foods-nutrition-and-digestion
 gutenberg_issued: '2023-10-30'
 identifiers:
   gutenberg: '71988'
